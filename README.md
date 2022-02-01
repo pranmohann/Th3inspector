@@ -1,5 +1,5 @@
 <h2>Th3inspector Tool 🕵️</h2>
-<img align="left" width="120" height="120" src="https://i.imgur.com/63TSBiM.png">
+<img align="left" width="120" height="120" src="https://imgur.com/RixFsgd.png">
 <p>Th3inspector 🕵️ best tool for Information Gathering 🔎<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ All in one tool for Information Gathering ⭐ </p>
 <a href="https://github.com/pranmohann/Th3inspector"><img src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
 <a href="https://github.com/pranmohann/Th3inspector"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a>
@@ -12,14 +12,14 @@
 <h2>Screenshots</h2>
 
 <br><img src="https://i.imgur.com/4Gh978u.jpg" width="117" height="156"></img>
-<img src="https://i.imgur.com/iaPxfRW.jpg" width="32%"></img>
+<img src="https://imgur.com/5V3b8Ez.jpg" width="32%"></img>
 <img src="https://i.imgur.com/NG03FY8.jpg" width="32%"></img>
 <img src="https://i.imgur.com/NYU2bYb.jpg" width="32%"></img>
 <img src="https://i.imgur.com/77MVBFF.jpg" width="400" height="156"></img>
 <hr>
 
 <h2>Video</h2>
-<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
+<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://imgur.com/5VtkSWc.jpg" style="max-width:100%;"></a>
 
 <h2>Usage</h2>
 
