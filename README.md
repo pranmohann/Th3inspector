@@ -7,7 +7,7 @@
 
 <hr>
 <h4>Th3inspector 🕵️ best tool for Information Gathering 🔎</h4>
-<img src="https://imgur.com/ozy0N38" data-canonical-src="https://imgur.com/AdNBYak" width="700" height="470">
+<img src="https://imgur.com/ozy0N38.png" data-canonical-src="https://imgur.com/AdNBYak.png" width="700" height="470">
 <hr>
 <h2>Screenshots</h2>
 
