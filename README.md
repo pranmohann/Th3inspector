@@ -131,6 +131,8 @@
 ``perl Th3inspector.pl -c example.com``
 
 
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
 ```bash
 git clone https://github.com/pranmohann/Th3inspector.git
 cd Th3inspector
