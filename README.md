@@ -19,7 +19,7 @@
 <hr>
 
 <h2>Video</h2>
-<a href"https://youtu.be/ZvsIbhRPSrI"><img src="https://imgur.com/5VtkSWc.jpg" style="max-width:100%;"></a>
+<a href="https://imgur.com/a/CgspKmF.mp4"><img src="https://imgur.com/5VtkSWc.jpg" style="max-width:100%;"></a>
 
 <h2>Usage</h2>
 
